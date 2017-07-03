@@ -5,3 +5,4 @@ This is a test repository
 . This is the first line of the text
 . This is the second line of the text
 . This can go on endlessly
+* This is the real second line of teh text
